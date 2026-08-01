@@ -1,0 +1,5 @@
+<div class="flex flex-wrap">
+{{ range .Page.Resources.ByType "image" }}
+  <img src="{{ .RelPermalink }}" alt="{{ .Title }}" style="width:220px; margin:8px; border-radius:6px;">
+{{ end }}
+</div>

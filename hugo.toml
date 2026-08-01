@@ -1,0 +1,34 @@
+baseURL = "https://BaysMountainBaptistChurch"
+languageCode = "en-us"
+title = "BMBC"
+theme = "ananke"
+
+[params]
+  background_color_class = "bg-black"
+  featured_image = "/images/baysmontainbaptist-AI.png"
+  background_image_path = "/images/baysmontainbaptist-AI.png"
+  recent_posts_number = 0
+  body_classes = "avenir bg-white"
+  mainSections = ["posts"]
+  post_content_classes = "tl"
+
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  pageRef = "/about"
+  weight = 2
+
+[[menu.main]]
+  name = "Photos"
+  pageRef = "/photos"
+  weight = 3
+
+[[menu.main]]
+  name = "Events"
+  pageRef = "/events"
+  weight = 4
