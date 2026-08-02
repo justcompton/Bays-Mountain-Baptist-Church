@@ -2,6 +2,7 @@ baseURL = "https://bays-mountain-baptist-church.pages.dev/"
 languageCode = "en-us"
 title = "BMBC"
 theme = "ananke"
+copyright = "Bays Mountain Baptist Church"
 
 [params]
   background_color_class = "bg-black"
@@ -11,6 +12,7 @@ theme = "ananke"
   body_classes = "avenir bg-white"
   mainSections = ["posts"]
   post_content_classes = "tl"
+  site_logo = ""
 
   [params.ananke.home]
   content_alignment = "left"
