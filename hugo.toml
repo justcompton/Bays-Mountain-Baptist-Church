@@ -12,6 +12,9 @@ theme = "ananke"
   mainSections = ["posts"]
   post_content_classes = "tl"
 
+  [params.ananke.home]
+  content_alignment = "left"
+
 
 [[menu.main]]
   name = "Home"
