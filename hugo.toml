@@ -1,4 +1,4 @@
-baseURL = "https://BaysMountainBaptistChurch"
+baseURL = "bays-mountain-baptist-church.pages.dev"
 languageCode = "en-us"
 title = "BMBC"
 theme = "ananke"
