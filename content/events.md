@@ -5,8 +5,7 @@ title: "Events"
 
 
 
-\## Upcoming Events
-
+**Upcoming Events****
 
 
 \*\*Vacation Bible School\*\* - July 14-18, 6:00 PM - 8:00 PM
@@ -21,8 +20,7 @@ Games, food, and fellowship for the whole family.
 
 
 
-\## Schedule Changes
-
+**Schedule changes**
 
 
 No changes to regular service times at this time.
