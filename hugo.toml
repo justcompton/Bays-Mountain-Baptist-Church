@@ -37,3 +37,9 @@ copyright = "Bays Mountain Baptist Church"
   name = "Events"
   pageRef = "/events"
   weight = 4
+
+  [params.ananke.social]
+   [params.ananke.social.follow]
+    networks = ["facebook"]
+  [params.ananke.social.facebook]
+    profilelink = "https://www.facebook.com/p/Bays-Mountain-Baptist-Church-100064487184410/"
